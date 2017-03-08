@@ -1,0 +1,17 @@
+body{
+  background-image: url(img/luis-llerena-16146-compressor.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.jumbotron {
+  background: none;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
