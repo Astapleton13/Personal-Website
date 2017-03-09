@@ -6,6 +6,12 @@ body{
 
 .jumbotron {
   background: none;
+  text-shadow: 1px 1px 3px #000000;
+}
+
+img:hover {
+  height: 3.5%;
+  width: 3.5%;
 }
 
 .footer {
